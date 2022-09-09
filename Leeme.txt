@@ -1,0 +1,11 @@
+Buenas, he probado a cargar el script un par de veces y a mi me funciona correctamente.
+Puede haber alguna incongruencia entre la logica de los datos (ejemplo: vehiculo mas de 5 años y solo 10.000 km) 
+y cosas asi porque no he reparado en que los datos esten logicamente relacionados.Me he enfocado mas bien
+en establecer bien el modelo relacional con sus relaciones y la creacion y carga del scripts.
+La consulta SQL la he separado en dos: por un lado todas las caracteristicas de los vehiculos que se pedian en el ejercicio
+y por otra consultas relacionadas con las Revisiones.
+Un saludo.
+
+PD: me ha costado un poco entender las PK y las FK sobre todo donde van situadas las FK.No estaria de mas que Keepcoding
+despues de cada modulo hicieran una sesion de feedbaack para que despues de las practicas se expusieran las dudas (porque cuando mas dudas
+te surgen no es cuando estas atento en la video-conferencia y en las explicaciones  sino cuando estas con las manos en la masa (practica..jj). 
